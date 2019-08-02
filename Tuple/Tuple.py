@@ -117,3 +117,15 @@ equiqments = ('computer', 'video display', 'typerwritter')
 rooms = ('living room', 'kitchen', 'guest room', 'bath room')
 result = zip(equiqments, rooms)
 print(result)
+
+# sorted(): Tra ve mot list ma trong do cac phan tu duoc sap sep theo ky tu dau tien
+actions = ('pack', 'stand', 'throw', 'tie', 'run', 'jump', 'hug', 'shave', 'eat', 'drink')
+print(sorted(actions))
+
+#  sum():
+#Tra ve tong cac phan tu co trong tuple
+#Throw error neu mot phan tu trong tuple khong phai dang so
+tup1 = (1, 2, 3, 5, 10)
+tup2 = (1,2,3, 'a', 'chris')
+print(sum(tup1))
+print(sum(tup2))
