@@ -32,3 +32,48 @@ for d in Days:
     print(d)
 
 #3. Cac phuong thuc trong set
+
+#3.1 add(): Them mot phan tu vao set
+breakfast = {"eggs", "bacon", "sausage", "toast", "cereal", "milk", "muffin"}
+breakfast.add("coffee")
+
+print(breakfast)
+
+#3.2 remove() : Xoa 1 phan tu khoi Set, throw error neu phan tu ko ton tai trong Set
+breakfast.remove("sausage")
+print(breakfast)
+# breakfast.remove("pho")
+
+#3.3 discard() : xoa 1 phan tu khoi Set, neu ko ton tai phan tu trong Set thi ko throw error
+breakfast.remove("bacon")
+breakfast.discard("pho")
+print(breakfast)
+
+#3.4 union() : Tra ve hop cua hai tap hop
+A = {1, 2, 3, 4, 5, 6}
+B = {4, 5, 7, 8, 9}
+C = A.union(B)
+C = B.union(A)
+C = A | B
+print(C)
+
+#3.5 intersection() : Tra ve giao 2 tap hop
+C = A.intersection(B)
+print(C)
+C = B.intersection(A)
+print(C)
+C = A & B
+print(C)
+
+#3.6 difference() : Tra ve hieu hai tap hop
+A = {"Ha Anh Tuan", "My Tam", "Erik", "Duc Phuc"}
+B = {"Thanh Ha", "Ha Anh Tuan", "Issac"}
+C = A.difference(B)
+print(C)
+C = A - B
+print(C)
+
+#4. Frozenset
+#   Neu tuple la mot immutable thi fronzenset la mot #immutable set. Ta ko the xoa, them phan tu trong Set
+A = frozenset([1, 2, 3, 4])
+A.add("10")
