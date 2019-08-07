@@ -1,0 +1,9 @@
+Numpy là viết tắt của "Numerical Python", là một thư viện chuyên để xử lí, tính toán các vector, matrix
+
+Numpy thường được sử dụng cùng với SciPy và Matplotlib để thay thế cho MatLab.
+
+Được viết bằng Python và C nên tốc độ thực thi tốt
+
+Numpy là module quan trọng cho việc xử lý dữ liệu và có thể chuyển đổi qua kiểu dữ liệu Tensor trong Tensorflow và Pytorch.
+
+Numpy là một mảng là tập hợp các giá trị cùng kiểu dữ liệu và được đánh số bằng các số nguyên dương.
