@@ -3,20 +3,27 @@ Python Basic Code
 
 ## Agenda
    ### Python Basic Tutorial
- [1. Numbers](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Numbers)\
- [2. String](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/String)\
- [3. List](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/List)\
- [4. Tuple](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Tuple)\
- [5. Dictionary](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Dictionary)\
- [6. Set](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Set)\
- 7. Data Structure\
+   [1. Numbers](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Numbers)\
+   [2. String](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/String)\
+   [3. List](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/List)\
+   [4. Tuple](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Tuple)\
+   [5. Dictionary](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Dictionary)\
+   [6. Set](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Set)\
+   7. Data Structure\
      * [Linked List](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Linked-List)\
      * [Queue](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Queue)\
      * [Stack](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Stack)\
      * [Binary Tree](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Binary-Tree)\
- 8. Basic Algorithm\
+   8. Basic Algorithm\
      * [Sort](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Algorithm/Sort)
 
+   ### Python Library
+   [1. Numpy](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Numpy)
+   [2. Matplotlib](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Matplotlib)
+   
+   ### Others
+   [1. Jupyter Notebook](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Jupyter-Notebook)\
+   [2. Comprehensions](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Comprehensions)
 
 ## Documentation
   
