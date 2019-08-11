@@ -10,5 +10,5 @@ Python Basic Code
   
   
   ### Python - Matplotlib
-  [vimentor.c Introduction to Python For Data Science và Manipulating Pandas Data Structures](https://vimentor.com/vi/lesson/1-mo-dau-2)
+  [vimentor.c Introduction to Python For Data Science và Manipulating Pandas Data Structures](https://vimentor.com/vi/lesson/1-mo-dau-2)\
   [Matplotlib Tutorial-matplotlib.org](https://matplotlib.org/tutorials/index.html)
