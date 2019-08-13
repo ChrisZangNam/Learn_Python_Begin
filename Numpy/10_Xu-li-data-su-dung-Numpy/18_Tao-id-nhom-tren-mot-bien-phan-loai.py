@@ -23,4 +23,5 @@ for val in uniqs:
         #chen vao mang ket qua
         output.append(groupid)
 
+print("Out put is: ")
 print(output)
