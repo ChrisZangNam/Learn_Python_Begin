@@ -40,7 +40,8 @@ print(awesome[1][2])
 print(awesome[..., 2:])
 print(awesome[1:, ...])
 print('\n')
-
+print("Example: ")
+print(awesome[1,...])
 
 ##Indexing advanced
 
