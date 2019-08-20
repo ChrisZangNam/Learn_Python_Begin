@@ -1,4 +1,5 @@
-import numpy as np
+#Du lieu anh dang Binary
+
 from urllib import request
 import gzip
 import pickle

@@ -1,3 +1,5 @@
+#xu ly du lieu mnist
+
 import os
 import gzip
 import numpy as np
@@ -39,19 +41,3 @@ for i in range(1, columns*rows + 1):
     plt.imshow(img, cmap='gray', vmin=0, vmax=255)
 
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

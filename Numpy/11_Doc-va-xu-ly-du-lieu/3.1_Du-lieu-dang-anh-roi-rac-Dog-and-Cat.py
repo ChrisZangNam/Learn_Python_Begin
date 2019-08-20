@@ -1,3 +1,5 @@
+#Du lieu anh roi rac
+
 import numpy as np
 import os
 from random import shuffle
@@ -53,5 +55,3 @@ X = np.load('dogs-vs-cats/X.npy')
 for i in range(10):
     im = Image.fromarray(X[indices[i]].reshape(50, 50, 3))
     im.save("cats_dogs/image_" + str(i) + ".jpg")
-
-

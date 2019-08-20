@@ -1,3 +1,5 @@
+#Divide data in to Training set, Validation set and Test set
+
 import os
 import gzip
 import numpy as np
