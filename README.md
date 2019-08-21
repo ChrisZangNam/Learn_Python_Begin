@@ -9,7 +9,7 @@ Python Basic Code
    - [4. Tuple](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Tuple)
    - [5. Dictionary](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Dictionary)
    - [6. Set](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Set)
-   - [7. Asterick-Dấu hoa thị trong Python](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Asterisk(Dau-hoa-thi)
+   - [7. Asterick-Dấu hoa thị trong Python](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Asterisk(Dau-hoa-thi))
    - [8. Data Structure]()
      * [Linked List](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Linked-List)
      * [Queue](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Queue)
