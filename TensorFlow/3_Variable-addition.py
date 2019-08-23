@@ -9,6 +9,7 @@ c = tf.add(a,b)
 #chu y: Khac voi lap trinh thong thuong, day moi dung lai o viec dinh nghia ham
 #Ham initialize_all_variables() chua thuc su chay, x va y node chua he co gia tri
 init = tf.initialize_all_variables()
+init = tf.initialize_all_variables()
 
 #Chay Graph
 with tf.Session() as sess:
@@ -16,3 +17,6 @@ with tf.Session() as sess:
     sess.run(init)
     sess.run(c) #Chay Graph
     print(c.eval())
+
+writer = tf.summary.FileWriter
+
