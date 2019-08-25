@@ -10,4 +10,4 @@ with tf.Session() as sess:
     # writer = tf.summary.FileWriter('./graphs', sess.graph)
     print(sess.run(x))
 writer.close()  # close the writer when you’re done using it
-tf.variables_initializer
+(tf.train.GradientDescentOptimizer(learning_rate=0.001).minimize()
