@@ -17,6 +17,7 @@ Python Basic Code
      * [Binary Tree](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Binary-Tree)
    - [9. Basic Algorithm]()
      * [Sort](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Algorithm/Sort)
+   - [10. Object Oriented Programming (OOP) - Class](https://github.com/dangnam739/Learn_Python_Begin/tree/master/Class)
 
    ### Python Library
    - [1. Numpy](https://github.com/ChrisZangNam/Learn_Python_Begin/tree/master/Numpy)
